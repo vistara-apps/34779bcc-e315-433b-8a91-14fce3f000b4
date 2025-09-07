@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "HealthBridge",
+    "subtitle": "Built with Zara",
+    "description": "HealthBridge is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://34779bcce315433b8a9114fce3f000b4-9g2q.vercel.app",
+    "splashImageUrl": "https://34779bcce315433b8a9114fce3f000b4-9g2q.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://34779bcce315433b8a9114fce3f000b4-9g2q.vercel.app/image.png",
+    "tagline": "HealthBridge",
+    "screenshotUrls": [
+      "https://34779bcce315433b8a9114fce3f000b4-9g2q.vercel.app/screenshot.png",
+      "https://34779bcce315433b8a9114fce3f000b4-9g2q.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://34779bcce315433b8a9114fce3f000b4-9g2q.vercel.app/api/webhook"
+  }
+}
